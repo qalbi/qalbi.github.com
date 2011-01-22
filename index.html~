@@ -33,11 +33,9 @@
 	    <li><img class="icon" src="images/icons/alioth.png">Alioth: <a href="mailto:qalbi-guest@users.alioth.debian.org"><b>qalbi-guest@users.alioth.debian.org</a></b></li>
 -->
         </ul>
-	<ul>
-			launchpad-logo-and-name.png
-            <li><a href="https://launchpad.net/~qalbi"><img class="icon" src="images/icons/launchpad-logo-and-name.png">Launchpad</a>;</li>
-            <li><a href="http://facebook.com/qalbimr"><img class="icon" src="images/icons/facebook.png">Facebook</a>;</li>
+        <ul>
             <li><a href="http://twitter.com/qalbimr"><img class="icon" src="images/icons/twitter.png">Twitter</a>;</li>
+            <li><a href="http://facebook.com/qalbimr"><img class="icon" src="images/icons/facebook.png">Facebook</a>;</li>
             <li><a href="http://alioth.debian.org/users/qalbi-guest/"><img class="icon" src="images/icons/alioth.png">Alioth.debian.org</a>;</li>
             <li><a href="http://github.com/qalbi"><img class="icon" src="images/icons/github.png">Github</a>.</li>
         </ul>
